@@ -1,0 +1,31 @@
+_repo: The-golden-west-boys-Injun-and-Whitey_68969
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pancoast, Morris H.
+    gutenberg_agent_id: '55032'
+    url: http://www.gutenberg.org/2009/agents/55032
+creator:
+  author:
+    agent_name: Hart, William S.
+    birthdate: 1876
+    gutenberg_agent_id: '6987'
+    url: http://www.gutenberg.org/2009/agents/6987
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68969'
+language: en
+pgterms:marc905: 20220212173342hart
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Mary Meehan and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive).
+publication_note: United States :Houghton Mifflin Company,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The golden west boys: "Injun" and "Whitey"'
+url: http://www.gutenberg.org/ebooks/68969
