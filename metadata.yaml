@@ -5,6 +5,9 @@ contributor:
     agent_name: Pancoast, Morris H.
     gutenberg_agent_id: '55032'
     url: http://www.gutenberg.org/2009/agents/55032
+covers:
+- cover_type: archival
+  image_path: 68969-h/images/cover.jpg
 creator:
   author:
     agent_name: Hart, William S.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '6987'
     url: http://www.gutenberg.org/2009/agents/6987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68969#The-golden-west-boys-Injun-and-Whitey
 gutenberg_issued: '2022-09-11'
 identifiers:
   gutenberg: '68969'
